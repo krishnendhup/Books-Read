@@ -15,6 +15,7 @@ Personal Development
 
 2023 >>>
 * 80/20 Principle - Robert Koch
+* Be Happy - Patrick Lindsay
 
 
 Technical
