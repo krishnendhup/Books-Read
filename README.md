@@ -12,6 +12,7 @@ Personal Development
 * The 5am Club - Robin Sharma
 * The Alchemist - Poulo Coelho
 * Ikigai - Hector Garcia and Francesc Miralles
+* Psychology of money - Morgan Housel
 
 2023 >>>
 * 80/20 Principle - Robert Koch
