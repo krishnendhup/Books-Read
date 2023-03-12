@@ -18,6 +18,7 @@ Personal Development
 * 80/20 Principle - Robert Koch
 * Be Happy - Patrick Lindsay
 * The Diabetes Code - Dr Jason Fung
+* The subtle art of not giving a Fuck - Mark Manson
 
 
 Technical
