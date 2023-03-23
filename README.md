@@ -23,4 +23,5 @@ Personal Development
 
 Technical
 =========
+* The Truth about Crypto -Ric Edelman
 
