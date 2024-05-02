@@ -20,6 +20,9 @@ Personal Development
 * The Diabetes Code - Dr Jason Fung
 * The subtle art of not giving a Fuck - Mark Manson
 
+2024 >>>
+How to win Friends and influence people - Dale Carnegie
+
 
 Technical
 =========
