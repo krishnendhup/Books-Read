@@ -23,6 +23,7 @@ Personal Development
 2024 >>>
 * How to win Friends and influence people - Dale Carnegie
 * The Almanack of Naval Ravikanth - Eric Jorgenson
+* Glucose Revolution - Jessie Inchauspe
 
 
 Technical
