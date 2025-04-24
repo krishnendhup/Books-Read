@@ -26,6 +26,9 @@ Personal Development
 * Glucose Revolution - Jessie Inchauspe
 * Deep Work - Cal Newport
 
+2025 >>>
+* Quiet the mind - Matthew Johnston
+
 
 Technical
 =========
